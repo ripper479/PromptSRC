@@ -2,7 +2,7 @@
 
 
 # custom config
-DATA="/path/to/dataset/folder"
+DATA="/content/DATA"
 TRAINER=PromptSRC
 
 DATASET=$1
