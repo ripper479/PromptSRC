@@ -18,6 +18,7 @@ import datasets.caltech101
 import datasets.ucf101
 import datasets.imagenet
 import datasets.plant_disease
+import datasets.isic
 
 import datasets.imagenet_sketch
 import datasets.imagenetv2
